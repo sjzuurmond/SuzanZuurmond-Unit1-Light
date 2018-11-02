@@ -4,5 +4,5 @@ End project of Unit 1. For fun, two other versions of apps involving light were 
 ## Light
 
 
-![blackScreen](doc/blackscreen.png =250x250)
+![blackScreen](doc/blackscreen.png | width=100)
 ![whiteScreen](doc/whitescreen.png =250x250)
