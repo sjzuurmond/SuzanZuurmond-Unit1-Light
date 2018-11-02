@@ -4,20 +4,13 @@ End project of Unit 1. For fun, two other versions of apps involving light were 
 ## Light
 This light app is very simplistic: by clicking on the screen you'll switch from a white background to a black one.
 
-<img src="doc/blackscreen.png" width="30%" title="Black Screen">
-<img src="doc/whitescreen.png" width="30%" title="White Screen">
+<img src="doc/blackscreen.png" width="30%" title="Black Screen"> <img src="doc/whitescreen.png" width="30%" title="White Screen">
 
 ## Extras
 ### Color Light
 In this app some colors are added: by clicking on the screen you'll switch through all colors of the rainbow.
 
-<img src="doc/redscreen.png" width="10%" title="Red Screen">
-<img src="doc/orangescreen.png" width="10%" title="Orange Screen">
-<img src="doc/yellowscreen.png" width="10%" title="Yellow Screen">
-<img src="doc/greenscreen.png" width="10%" title="Green Screen">
-<img src="doc/cyanscreen.png" width="10%" title="Cyan Screen">
-<img src="doc/bluecreen.png" width="10%" title="Blue Screen">
-<img src="doc/purplescreen.png" width="10%" title="Purple Screen">
+<img src="doc/redscreen.png" width="10%" title="Red Screen"> <img src="doc/orangescreen.png" width="10%" title="Orange Screen"> <img src="doc/yellowscreen.png" width="10%" title="Yellow Screen"> <img src="doc/greenscreen.png" width="10%" title="Green Screen"> <img src="doc/cyanscreen.png" width="10%" title="Cyan Screen"> <img src="doc/bluescreen.png" width="10%" title="Blue Screen"> <img src="doc/purplescreen.png" width="10%" title="Purple Screen">
 
 ### Bicycle light
 This is a more practical app that you can use on your bike. It gives you the ability of turning a front- and backlight on and off. 
