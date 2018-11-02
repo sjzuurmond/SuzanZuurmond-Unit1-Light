@@ -10,7 +10,7 @@ This light app is very simplistic: by clicking on the screen you'll switch from 
 ### Color Light
 In this app some colors are added: by clicking on the screen you'll switch through all colors of the rainbow.
 
-<img src="doc/redscreen.png" width="10%" title="Red Screen"> <img src="doc/orangescreen.png" width="10%" title="Orange Screen"> <img src="doc/yellowscreen.png" width="10%" title="Yellow Screen"> <img src="doc/greenscreen.png" width="10%" title="Green Screen"> <img src="doc/cyanscreen.png" width="10%" title="Cyan Screen"> <img src="doc/bluescreen.png" width="10%" title="Blue Screen"> <img src="doc/purplescreen.png" width="10%" title="Purple Screen">
+<img src="doc/redscreen.png" width="10%" height="20%" title="Red Screen"> <img src="doc/orangescreen.png" width="10%" title="Orange Screen"> <img src="doc/yellowscreen.png" width="10%" title="Yellow Screen"> <img src="doc/greenscreen.png" width="10%" title="Green Screen"> <img src="doc/cyanscreen.png" width="10%" title="Cyan Screen"> <img src="doc/bluescreen.png" width="10%" title="Blue Screen"> <img src="doc/purplescreen.png" width="10%" title="Purple Screen">
 
 ### Bicycle light
 This is a more practical app that you can use on your bike. It gives you the ability of turning a front- and backlight on and off. 
