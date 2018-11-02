@@ -3,6 +3,7 @@ End project of Unit 1. For fun, two other versions of apps involving light were 
 
 ## Light
 
+<img src="doc/blackscreen.png" width="30%" title="Black Screen">
 <img src="doc/blackscreen.png" width="50" height="70" title="Black Screen">
 
 ![blackScreen](doc/blackscreen.png | width=48)
